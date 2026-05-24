@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="SIGA_PLA_OUTORGA_2021_1" id="SIGA_PLA_OUTORGA_2021_1">
+            <SimpleField type="string" name="ID"/>
+            <SimpleField type="string" name="COD_SETOR"/>
+            <SimpleField type="string" name="COD_QUADRA"/>
+            <SimpleField type="string" name="COD_LOTE"/>
+            <SimpleField type="string" name="DSC_INTERESSADO"/>
+            <SimpleField type="string" name="ENDERECO"/>
+            <SimpleField type="string" name="NOM_BAIRRO"/>
+            <SimpleField type="string" name="DSC_USO"/>
+            <SimpleField type="string" name="DSC_ATIVIDADE"/>
+            <SimpleField type="string" name="DSC_TIPOLOGIA"/>
+            <SimpleField type="string" name="NUM_COEF_APROV_BASICO"/>
+            <SimpleField type="string" name="NUM_COEF_APROV_SOLICITADO"/>
+            <SimpleField type="string" name="DSC_STATUS"/>
+            <SimpleField type="string" name="NUM_CARACTERIZACAO"/>
+            <SimpleField type="string" name="NUM_PROCESSO"/>
+            <SimpleField type="string" name="NUM_ANO_PROCESSO"/>
+            <SimpleField type="string" name="NUM_AREA_LOTE"/>
+            <SimpleField type="string" name="NUM_UNIDADE"/>
+            <SimpleField type="string" name="NUM_VAGA"/>
+            <SimpleField type="string" name="DTA_PROTOCOLO"/>
+        </Schema>
+        <Folder>
+            <name>SIGA_PLA_OUTORGA_2021</name>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2867">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">37</SimpleData>
+                        <SimpleData name="COD_SETOR">5</SimpleData>
+                        <SimpleData name="COD_QUADRA">138</SimpleData>
+                        <SimpleData name="COD_LOTE">35</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Allda Empreendimentoe e Participações Ltda.</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Arthur de Queiróz, 349</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Casa Branca</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Em Análise</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">35042</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1000</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">66</SimpleData>
+                        <SimpleData name="NUM_VAGA">86</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-11-12T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.52052685594404,-23.65958974674309</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2868">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">1</SimpleData>
+                        <SimpleData name="COD_SETOR">1</SimpleData>
+                        <SimpleData name="COD_QUADRA">48</SimpleData>
+                        <SimpleData name="COD_LOTE">23</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">André de Souza Bernardo</SimpleData>
+                        <SimpleData name="ENDERECO">Rua das Figueiras, 2575</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Campestre</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">22/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7897</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">3200</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">108</SimpleData>
+                        <SimpleData name="NUM_VAGA">303</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-20T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.54740491863274,-23.636718583061054</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2869">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">10</SimpleData>
+                        <SimpleData name="COD_SETOR">15</SimpleData>
+                        <SimpleData name="COD_QUADRA">61</SimpleData>
+                        <SimpleData name="COD_LOTE">91</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Braido AB Empreendimentos Imobiliários Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Almirante Tamandaré, 650</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim Bela Vista</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">17/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7741</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1920</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">64</SimpleData>
+                        <SimpleData name="NUM_VAGA">130</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53274886049693,-23.66553519037148</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_286a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">12</SimpleData>
+                        <SimpleData name="COD_SETOR">17</SimpleData>
+                        <SimpleData name="COD_QUADRA">35</SimpleData>
+                        <SimpleData name="COD_LOTE">22</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">CCISA87 Incorporadora Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Avenida Gago Coutinho, 200</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Aquilino</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">2.12</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">16/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">8841</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">7354</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">458</SimpleData>
+                        <SimpleData name="NUM_VAGA">156</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-06-01T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.553606623018965,-23.656951051894225</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_286b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">18</SimpleData>
+                        <SimpleData name="COD_SETOR">5</SimpleData>
+                        <SimpleData name="COD_QUADRA">113</SimpleData>
+                        <SimpleData name="COD_LOTE">49</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Construtora Jacy Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Alcides de Queiros, 391</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Casa Branca</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">3</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">29/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7771</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">4050</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">238</SimpleData>
+                        <SimpleData name="NUM_VAGA">276</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.518998883047665,-23.660579034970837</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_286c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">25</SimpleData>
+                        <SimpleData name="COD_SETOR">15</SimpleData>
+                        <SimpleData name="COD_QUADRA">52</SimpleData>
+                        <SimpleData name="COD_LOTE">30</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Consultoria e Participações Ltda.</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Galeão Carvalhal, 169</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim Bela Vista</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">37677</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1200</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">60</SimpleData>
+                        <SimpleData name="NUM_VAGA">122</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-12-14T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53897308105961,-23.667510193354097</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_286d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">24</SimpleData>
+                        <SimpleData name="COD_SETOR">8</SimpleData>
+                        <SimpleData name="COD_QUADRA">140</SimpleData>
+                        <SimpleData name="COD_LOTE">16</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">DEMARC SANTO ANDRÉ</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Rio Claro, 286</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Camilópolis</SimpleData>
+                        <SimpleData name="DSC_USO">Não Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Comercial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">1.34</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">2</SimpleData>
+                        <SimpleData name="DSC_STATUS">Em Análise</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">34800</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">480</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">1</SimpleData>
+                        <SimpleData name="NUM_VAGA">4</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-11-10T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.52905069122256,-23.61803263074975</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_286e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">30</SimpleData>
+                        <SimpleData name="COD_SETOR">19</SimpleData>
+                        <SimpleData name="COD_QUADRA">322</SimpleData>
+                        <SimpleData name="COD_LOTE">1</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">DRVL Administradora de Bens Ltda.</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Walter Garcia, s/n</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim Stella</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">35/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">14067</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1826.22</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">120</SimpleData>
+                        <SimpleData name="NUM_VAGA">120</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-08-12T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53168316633666,-23.681481610810412</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_286f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">17</SimpleData>
+                        <SimpleData name="COD_SETOR">15</SimpleData>
+                        <SimpleData name="COD_QUADRA">148</SimpleData>
+                        <SimpleData name="COD_LOTE">71</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Elisete Guedes Maida</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Dr. Eduardo Monteiro, 106</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim Bela Vista</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">05/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">1858</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1120.2</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">34</SimpleData>
+                        <SimpleData name="NUM_VAGA">107</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-02-02T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53492909171496,-23.6650050763634</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2870">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">19</SimpleData>
+                        <SimpleData name="COD_SETOR">5</SimpleData>
+                        <SimpleData name="COD_QUADRA">84</SimpleData>
+                        <SimpleData name="COD_LOTE">40</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Engecon ABC Construções, Empreendimentos E Incorporadora Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Antônio Cardoso Franco, 147</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Casa Branca</SimpleData>
+                        <SimpleData name="DSC_USO">Não Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Comercial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">1.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">30/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">8147</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">321</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">19</SimpleData>
+                        <SimpleData name="NUM_VAGA">20</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-21T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.52166703601198,-23.65988216261888</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2871">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">8</SimpleData>
+                        <SimpleData name="COD_SETOR">7</SimpleData>
+                        <SimpleData name="COD_QUADRA">142</SimpleData>
+                        <SimpleData name="COD_LOTE">12</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Espaço Atual Empreendimentos Imobiliários Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Cedral, 284</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Progresso</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.95</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">13/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7400</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">602.16</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">60</SimpleData>
+                        <SimpleData name="NUM_VAGA">60</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-17T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.498417484112984,-23.679771199371896</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2872">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">7</SimpleData>
+                        <SimpleData name="COD_SETOR">6</SimpleData>
+                        <SimpleData name="COD_QUADRA">35</SimpleData>
+                        <SimpleData name="COD_LOTE">283</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Htf Participações Ltda.</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Aimberê, 447</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Curuçá</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">10/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7762</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1200</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">120</SimpleData>
+                        <SimpleData name="NUM_VAGA">120</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.521605316930135,-23.6445311583324</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2873">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">16</SimpleData>
+                        <SimpleData name="COD_SETOR">1</SimpleData>
+                        <SimpleData name="COD_QUADRA">100</SimpleData>
+                        <SimpleData name="COD_LOTE">42</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">J C R Const. E Incorporadora Ltda.</SimpleData>
+                        <SimpleData name="ENDERECO">Avenida Dom Pedro II, 1879</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Campestre</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">27/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7775</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1000</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">64</SimpleData>
+                        <SimpleData name="NUM_VAGA">70</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.541313458046766,-23.64031348312359</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2874">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">35</SimpleData>
+                        <SimpleData name="COD_SETOR">1</SimpleData>
+                        <SimpleData name="COD_QUADRA">100</SimpleData>
+                        <SimpleData name="COD_LOTE">20</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">JCR Construtora e Incorporadora Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Avenida Dom Pedro II, 1879</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Campestre</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">27/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7775</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1000</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">64</SimpleData>
+                        <SimpleData name="NUM_VAGA">70</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.541354965050346,-23.640238598204693</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2875">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">21</SimpleData>
+                        <SimpleData name="COD_SETOR">3</SimpleData>
+                        <SimpleData name="COD_QUADRA">43</SimpleData>
+                        <SimpleData name="COD_LOTE">4</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Luiz Aravecchia</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Catequese, s/n</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Guiomar</SimpleData>
+                        <SimpleData name="DSC_USO">Não Residencial</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">0</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">0</SimpleData>
+                        <SimpleData name="DSC_STATUS">Arquivado por desinteresse</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">12564</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-07-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53967797682848,-23.658638171204434</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2876">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">9</SimpleData>
+                        <SimpleData name="COD_SETOR">13</SimpleData>
+                        <SimpleData name="COD_QUADRA">12</SimpleData>
+                        <SimpleData name="COD_LOTE">89</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Luiz Carlos Pereira</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Paranapanema, 55</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Assunção</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.5</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">11/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7838</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">696.75</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">44</SimpleData>
+                        <SimpleData name="NUM_VAGA">52</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.52437687255343,-23.67481571338184</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2877">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">20</SimpleData>
+                        <SimpleData name="COD_SETOR">19</SimpleData>
+                        <SimpleData name="COD_QUADRA">28</SimpleData>
+                        <SimpleData name="COD_LOTE">17</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Marcos Freire Brasil</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Andaraí, 376</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Floresta</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">31/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">8698</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">952.5</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">64</SimpleData>
+                        <SimpleData name="NUM_VAGA">135</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-28T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.54261708191711,-23.671577764295197</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2878">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">15</SimpleData>
+                        <SimpleData name="COD_SETOR">9</SimpleData>
+                        <SimpleData name="COD_QUADRA">21</SimpleData>
+                        <SimpleData name="COD_LOTE">8</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Maria Darci Maragni Benedito e Outros</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Cotoxó, 111</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Pires</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.38</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">07/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">3150</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">800</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">52</SimpleData>
+                        <SimpleData name="NUM_VAGA">84</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-02-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.51644906731253,-23.672088871073402</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2879">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">33</SimpleData>
+                        <SimpleData name="COD_SETOR">15</SimpleData>
+                        <SimpleData name="COD_QUADRA">153</SimpleData>
+                        <SimpleData name="COD_LOTE">90</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Maria de Fátima França Gavioli</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Eduardo Monteiro, Dr, 109</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim Bela Vista</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.5</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">04/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">754</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">764</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">50</SimpleData>
+                        <SimpleData name="NUM_VAGA">75</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-01-15T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.535016694927265,-23.66527830672279</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_287a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">32</SimpleData>
+                        <SimpleData name="COD_SETOR">17</SimpleData>
+                        <SimpleData name="COD_QUADRA">99</SimpleData>
+                        <SimpleData name="COD_LOTE">34</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Mario Franscisco Junghans</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Taipas, 105</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Valparaíso</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.5</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">41/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">16592</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">618</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">41</SimpleData>
+                        <SimpleData name="NUM_VAGA">42</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-09-13T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.54667047412566,-23.66923674254952</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_287b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">29</SimpleData>
+                        <SimpleData name="COD_SETOR">4</SimpleData>
+                        <SimpleData name="COD_QUADRA">146</SimpleData>
+                        <SimpleData name="COD_LOTE">49</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Martinez &amp; Fernandes Empreendimentos Imobiliários Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Avenida Estados Unidos, 449</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Santa Terezinha</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">34/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">10462</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">913</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">60</SimpleData>
+                        <SimpleData name="NUM_VAGA">108</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-06-23T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.529941130854475,-23.636156857446213</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_287c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">11</SimpleData>
+                        <SimpleData name="COD_SETOR">17</SimpleData>
+                        <SimpleData name="COD_QUADRA">165</SimpleData>
+                        <SimpleData name="COD_LOTE">2</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Max Quata Empreendimentos Imobiliarios Spe Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Quata, 428</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Palmares</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.99</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">08/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7981</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1768.5</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">180</SimpleData>
+                        <SimpleData name="NUM_VAGA">168</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-20T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.560676509913,-23.65122472538914</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_287d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">31</SimpleData>
+                        <SimpleData name="COD_SETOR">4</SimpleData>
+                        <SimpleData name="COD_QUADRA">130</SimpleData>
+                        <SimpleData name="COD_LOTE">4</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">MBM 3S2 Empreendimentos Imobiliários Spe Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Avenida Brasil, 352</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Parque das Nações</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">37/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">15921</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">480</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">18</SimpleData>
+                        <SimpleData name="NUM_VAGA">18</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-09-03T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.5220376292287,-23.639239552684156</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_287e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">36</SimpleData>
+                        <SimpleData name="COD_SETOR">17</SimpleData>
+                        <SimpleData name="COD_QUADRA">232</SimpleData>
+                        <SimpleData name="COD_LOTE">17</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">MCP Realty Desenvolvimento Imobiliário Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Isabel, s/n</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Palmares</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.39</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">43/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">18021</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">2723.09</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">168</SimpleData>
+                        <SimpleData name="NUM_VAGA">168</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-09-27T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.55860910139708,-23.64664289731599</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_287f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">2</SimpleData>
+                        <SimpleData name="COD_SETOR">1</SimpleData>
+                        <SimpleData name="COD_QUADRA">70</SimpleData>
+                        <SimpleData name="COD_LOTE">345</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">MH Marchese Emp. E Participações Eireli</SimpleData>
+                        <SimpleData name="ENDERECO">Rua das Figueiras, 2001</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Campestre</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">0</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">0</SimpleData>
+                        <SimpleData name="DSC_STATUS">Arquivado por desinteresse</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7377</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-17T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.54479124171323,-23.64100689230042</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2880">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">14</SimpleData>
+                        <SimpleData name="COD_SETOR">1</SimpleData>
+                        <SimpleData name="COD_QUADRA">69</SimpleData>
+                        <SimpleData name="COD_LOTE">33</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Motiró 03 Empreendimentos Imobiliários Ltda</SimpleData>
+                        <SimpleData name="ENDERECO">Rua das Figueiras, s/n</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Campestre</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">19/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7772</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">2160</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">84</SimpleData>
+                        <SimpleData name="NUM_VAGA">211</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.54488738499933,-23.640468730958656</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2881">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">13</SimpleData>
+                        <SimpleData name="COD_SETOR">19</SimpleData>
+                        <SimpleData name="COD_QUADRA">28</SimpleData>
+                        <SimpleData name="COD_LOTE">17</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Pedro de Mello Ribeiro</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Andaraí, 354</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Floresta</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">09/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7684</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">952.5</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">95</SimpleData>
+                        <SimpleData name="NUM_VAGA">95</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-18T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.542694087825744,-23.671598382736004</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2882">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">4</SimpleData>
+                        <SimpleData name="COD_SETOR">3</SimpleData>
+                        <SimpleData name="COD_QUADRA">77</SimpleData>
+                        <SimpleData name="COD_LOTE">3</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Pedro de Mello Ribeiro</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Padre Anchieta, 620</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">15/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7568</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">511</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">72</SimpleData>
+                        <SimpleData name="NUM_VAGA">25</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-17T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53402773679284,-23.64976063578161</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2883">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">5</SimpleData>
+                        <SimpleData name="COD_SETOR">4</SimpleData>
+                        <SimpleData name="COD_QUADRA">106</SimpleData>
+                        <SimpleData name="COD_LOTE">32</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Recon Engenharia Ltda.</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Paraguai, 183</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Parque das Nações</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">18/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">7770</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1366</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">76</SimpleData>
+                        <SimpleData name="NUM_VAGA">132</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-19T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.523512039935056,-23.639714654949834</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2884">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">22</SimpleData>
+                        <SimpleData name="COD_SETOR">15</SimpleData>
+                        <SimpleData name="COD_QUADRA">100</SimpleData>
+                        <SimpleData name="COD_LOTE">52</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Rede Dór São Luiz S.A.</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Fernando Prestes, Cel, 1177</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Vila Assunção</SimpleData>
+                        <SimpleData name="DSC_USO">Não Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Institucional</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">1.34</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">5.400000000000001</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">08/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">8292</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">11197.12</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">600</SimpleData>
+                        <SimpleData name="NUM_VAGA">430</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-24T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53156678175364,-23.66807946990152</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2885">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">28</SimpleData>
+                        <SimpleData name="COD_SETOR">4</SimpleData>
+                        <SimpleData name="COD_QUADRA">109</SimpleData>
+                        <SimpleData name="COD_LOTE">20</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Residencial Córdoba Spe</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Espanha, 629</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Parque das Nações</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">4</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">06/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">2343</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">1560</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">96</SimpleData>
+                        <SimpleData name="NUM_VAGA">192</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-02-10T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.523583633111876,-23.636658296455956</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2886">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">3</SimpleData>
+                        <SimpleData name="COD_SETOR">3</SimpleData>
+                        <SimpleData name="COD_QUADRA">170</SimpleData>
+                        <SimpleData name="COD_LOTE">985</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Santo André Boulevard Jardim 1 Empreendimento Imobiliário Sa</SimpleData>
+                        <SimpleData name="ENDERECO">Avenida Industrial, 1740</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.2</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">3.8</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">14/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">8916</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">4999.13</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">496</SimpleData>
+                        <SimpleData name="NUM_VAGA">169</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-06-02T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53821290973766,-23.640338777822205</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2887">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">6</SimpleData>
+                        <SimpleData name="COD_SETOR">6</SimpleData>
+                        <SimpleData name="COD_QUADRA">77</SimpleData>
+                        <SimpleData name="COD_LOTE">22</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Serapião Francisco Vila Nova Neto</SimpleData>
+                        <SimpleData name="ENDERECO">Rua Estônia, 76</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Parque das Nações</SimpleData>
+                        <SimpleData name="DSC_USO">Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Residencial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Vertical</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">2.5</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">2.91</SimpleData>
+                        <SimpleData name="DSC_STATUS">Aprovado</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">12/21</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">8347</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">780</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">42</SimpleData>
+                        <SimpleData name="NUM_VAGA">42</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-05-25T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.513722513716466,-23.63810954102335</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="SIGA_PLA_OUTORGA_2021.fid-433f15e1_19e58192071_2888">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#SIGA_PLA_OUTORGA_2021_1">
+                        <SimpleData name="ID">23</SimpleData>
+                        <SimpleData name="COD_SETOR">3</SimpleData>
+                        <SimpleData name="COD_QUADRA">67</SimpleData>
+                        <SimpleData name="COD_LOTE">25</SimpleData>
+                        <SimpleData name="DSC_INTERESSADO">Sergio Antonio Marra</SimpleData>
+                        <SimpleData name="ENDERECO">Rua das Esmeraldas, 379</SimpleData>
+                        <SimpleData name="NOM_BAIRRO">Jardim</SimpleData>
+                        <SimpleData name="DSC_USO">Não Residencial</SimpleData>
+                        <SimpleData name="DSC_ATIVIDADE">Comercial</SimpleData>
+                        <SimpleData name="DSC_TIPOLOGIA">Horizontal</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_BASICO">1.34</SimpleData>
+                        <SimpleData name="NUM_COEF_APROV_SOLICITADO">2</SimpleData>
+                        <SimpleData name="DSC_STATUS">Em Análise</SimpleData>
+                        <SimpleData name="NUM_CARACTERIZACAO">04/22</SimpleData>
+                        <SimpleData name="NUM_PROCESSO">34709</SimpleData>
+                        <SimpleData name="NUM_ANO_PROCESSO">2021</SimpleData>
+                        <SimpleData name="NUM_AREA_LOTE">400</SimpleData>
+                        <SimpleData name="NUM_UNIDADE">9</SimpleData>
+                        <SimpleData name="NUM_VAGA">7</SimpleData>
+                        <SimpleData name="DTA_PROTOCOLO">2021-11-09T03:00:00Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-46.53565293263565,-23.652271319900606</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
